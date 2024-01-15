@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mental Health Prediction</title>
+</head>
+<body>
+    <h1>Mental Health Prediction</h1>
+    <form action="/predict" method="post">
+        <label for="quiz_score">Quiz Score (0-10):</label>
+        <input type="number" name="quiz_score" required step="0.1" min="0" max="10">
+
+        <label for="medical_history">Medical History:</label>
+        <select name="medical_history" required>
+            <option value="diabetes">Diabetes</option>
+            <option value="thyroid">Thyroid</option>
+            <option value="cancer">Cancer</option>
+            <option value="HIV/AIDS">HIV/AIDS</option>
+            <option value="sleep disorder">Sleep Disorder</option>
+            <option value="any other">Any Other</option>
+        </select>
+
+        <label for="major_loss">Major Loss:</label>
+        <select name="major_loss" required>
+            <option value="death of loved ones">Death of Loved Ones</option>
+            <option value="divorce">Divorce</option>
+            <option value="relationship breakup">Relationship Breakup</option>
+            <option value="loss of employment">Loss of Employment</option>
+            <option value="financial loss">Financial Loss</option>
+            <option value="miscarriage">Miscarriage</option>
+            <option value="any other">Any Other</option>
+        </select>
+
+        <button type="submit">Predict</button>
+    </form>
+</body>
+</html>

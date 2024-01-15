@@ -1,0 +1,1001 @@
+Medical History,Major Loss,Quiz Score,Mental Health Condition
+cancer,death of loved ones,0,0
+HIV/AIDS,,3,1
+HIV/AIDS,loss of employment,1,5
+cancer,,3,0
+HIV/AIDS,divorce,5,
+thyroid,financial loss,2,5
+cancer,financial loss,6,0
+sleep disorder,death of loved ones,9,1
+sleep disorder,death of loved ones,2,5
+cancer,relationship breakup,9,
+any other,,7,0
+any other,death of loved ones,,1
+any other,death of loved ones,8,3
+HIV/AIDS,death of loved ones,0,1
+HIV/AIDS,,0,4
+cancer,relationship breakup,10,3
+HIV/AIDS,death of loved ones,3,1
+diabetes,,2,3
+sleep disorder,any other,7,1
+sleep disorder,any other,4,1
+HIV/AIDS,miscarriage,9,4
+HIV/AIDS,death of loved ones,0,4
+cancer,,6,0
+any other,divorce,2,
+any other,loss of employment,4,4
+sleep disorder,loss of employment,1,3
+thyroid,divorce,6,5
+cancer,relationship breakup,3,2
+diabetes,miscarriage,8,3
+HIV/AIDS,divorce,2,5
+any other,loss of employment,2,3
+sleep disorder,financial loss,8,3
+,any other,10,0
+thyroid,loss of employment,5,4
+HIV/AIDS,relationship breakup,9,0
+any other,miscarriage,2,2
+any other,miscarriage,9,0
+any other,miscarriage,,0
+cancer,,4,1
+any other,,5,5
+cancer,any other,0,1
+cancer,death of loved ones,9,5
+HIV/AIDS,miscarriage,7,
+sleep disorder,loss of employment,,5
+any other,financial loss,3,0
+any other,any other,10,3
+cancer,financial loss,3,5
+any other,relationship breakup,4,1
+,loss of employment,5,5
+HIV/AIDS,death of loved ones,6,3
+diabetes,,5,4
+HIV/AIDS,any other,9,1
+thyroid,any other,6,3
+,loss of employment,9,5
+thyroid,financial loss,6,4
+diabetes,any other,10,2
+HIV/AIDS,financial loss,7,2
+diabetes,any other,1,3
+any other,miscarriage,7,0
+cancer,death of loved ones,1,4
+cancer,divorce,0,2
+cancer,miscarriage,2,3
+thyroid,any other,6,
+diabetes,miscarriage,6,5
+cancer,,4,3
+HIV/AIDS,divorce,5,
+diabetes,loss of employment,0,0
+thyroid,death of loved ones,5,2
+,relationship breakup,6,
+sleep disorder,any other,8,3
+thyroid,death of loved ones,10,2
+diabetes,miscarriage,,
+,relationship breakup,6,
+sleep disorder,financial loss,2,
+sleep disorder,divorce,10,3
+,relationship breakup,0,
+HIV/AIDS,miscarriage,1,
+HIV/AIDS,financial loss,7,0
+HIV/AIDS,,,
+cancer,relationship breakup,0,
+sleep disorder,divorce,6,1
+HIV/AIDS,,8,4
+thyroid,any other,,3
+diabetes,divorce,3,2
+any other,miscarriage,5,
+HIV/AIDS,loss of employment,6,4
+diabetes,financial loss,,
+sleep disorder,any other,,4
+any other,miscarriage,9,4
+any other,miscarriage,9,3
+cancer,any other,8,3
+,any other,5,3
+HIV/AIDS,divorce,8,0
+sleep disorder,,5,3
+sleep disorder,financial loss,3,1
+,financial loss,2,4
+sleep disorder,any other,0,1
+,any other,,5
+sleep disorder,loss of employment,7,2
+cancer,,6,
+HIV/AIDS,death of loved ones,3,
+thyroid,death of loved ones,,4
+,any other,10,4
+HIV/AIDS,divorce,7,0
+HIV/AIDS,miscarriage,5,5
+thyroid,relationship breakup,10,2
+thyroid,loss of employment,6,2
+any other,financial loss,7,3
+sleep disorder,relationship breakup,2,4
+thyroid,financial loss,8,2
+HIV/AIDS,,,2
+diabetes,any other,2,5
+thyroid,any other,4,1
+diabetes,,1,3
+thyroid,financial loss,0,
+thyroid,loss of employment,3,4
+diabetes,death of loved ones,7,
+thyroid,,6,1
+diabetes,relationship breakup,5,5
+sleep disorder,loss of employment,9,5
+diabetes,death of loved ones,5,4
+cancer,,7,2
+any other,relationship breakup,7,
+any other,financial loss,5,4
+HIV/AIDS,miscarriage,7,1
+diabetes,financial loss,3,
+,miscarriage,5,
+any other,,,0
+diabetes,divorce,5,1
+sleep disorder,financial loss,2,0
+,divorce,7,1
+sleep disorder,relationship breakup,5,0
+thyroid,any other,3,0
+HIV/AIDS,divorce,6,0
+,financial loss,8,3
+HIV/AIDS,loss of employment,9,2
+cancer,loss of employment,,4
+thyroid,miscarriage,,0
+diabetes,,6,4
+thyroid,miscarriage,10,5
+thyroid,,2,4
+HIV/AIDS,death of loved ones,6,
+thyroid,any other,6,5
+,death of loved ones,5,
+diabetes,loss of employment,8,3
+diabetes,loss of employment,,3
+any other,any other,9,0
+HIV/AIDS,financial loss,0,1
+thyroid,relationship breakup,9,1
+HIV/AIDS,loss of employment,10,1
+diabetes,loss of employment,3,3
+cancer,relationship breakup,5,0
+HIV/AIDS,financial loss,6,4
+any other,loss of employment,10,1
+,relationship breakup,10,5
+,relationship breakup,10,0
+any other,death of loved ones,7,1
+cancer,loss of employment,6,4
+sleep disorder,miscarriage,6,5
+any other,any other,7,1
+any other,financial loss,2,5
+any other,miscarriage,2,1
+HIV/AIDS,relationship breakup,0,0
+sleep disorder,relationship breakup,,0
+cancer,any other,9,
+sleep disorder,any other,10,5
+any other,financial loss,0,1
+diabetes,financial loss,6,3
+HIV/AIDS,,7,2
+thyroid,,7,0
+thyroid,divorce,,1
+,any other,3,5
+thyroid,relationship breakup,1,2
+sleep disorder,miscarriage,6,1
+HIV/AIDS,any other,6,1
+thyroid,miscarriage,6,5
+diabetes,loss of employment,0,
+,miscarriage,1,4
+sleep disorder,miscarriage,4,3
+thyroid,any other,8,2
+sleep disorder,,,1
+cancer,divorce,10,
+any other,miscarriage,1,
+cancer,divorce,6,2
+sleep disorder,divorce,0,2
+any other,relationship breakup,10,2
+sleep disorder,miscarriage,9,3
+diabetes,,4,5
+cancer,miscarriage,5,3
+thyroid,any other,3,0
+diabetes,any other,10,2
+sleep disorder,divorce,,3
+sleep disorder,divorce,2,3
+diabetes,,5,2
+HIV/AIDS,relationship breakup,7,3
+any other,death of loved ones,1,5
+thyroid,miscarriage,7,1
+thyroid,,0,3
+cancer,loss of employment,3,3
+,,4,2
+thyroid,death of loved ones,4,2
+cancer,,,5
+HIV/AIDS,loss of employment,5,0
+diabetes,loss of employment,7,3
+diabetes,divorce,2,
+HIV/AIDS,relationship breakup,5,
+thyroid,relationship breakup,9,4
+sleep disorder,relationship breakup,0,5
+sleep disorder,financial loss,2,3
+thyroid,death of loved ones,0,0
+,any other,4,2
+thyroid,divorce,2,1
+HIV/AIDS,divorce,10,3
+,death of loved ones,,3
+diabetes,death of loved ones,,0
+HIV/AIDS,miscarriage,1,1
+thyroid,,0,5
+cancer,divorce,3,1
+sleep disorder,relationship breakup,1,
+sleep disorder,any other,10,2
+diabetes,divorce,1,5
+,death of loved ones,8,
+thyroid,,5,5
+thyroid,miscarriage,4,0
+diabetes,,6,1
+HIV/AIDS,death of loved ones,9,0
+cancer,death of loved ones,5,3
+cancer,death of loved ones,,
+sleep disorder,miscarriage,5,3
+diabetes,financial loss,10,5
+sleep disorder,financial loss,6,2
+thyroid,any other,,3
+sleep disorder,death of loved ones,6,1
+HIV/AIDS,death of loved ones,0,
+thyroid,relationship breakup,2,1
+HIV/AIDS,,4,3
+any other,miscarriage,2,2
+sleep disorder,death of loved ones,1,5
+HIV/AIDS,loss of employment,0,2
+any other,divorce,7,0
+,loss of employment,1,
+sleep disorder,divorce,6,0
+sleep disorder,loss of employment,9,2
+any other,loss of employment,,5
+sleep disorder,loss of employment,6,4
+thyroid,divorce,6,2
+diabetes,financial loss,4,3
+any other,divorce,1,1
+,loss of employment,6,3
+,death of loved ones,10,0
+thyroid,any other,2,
+diabetes,relationship breakup,0,3
+diabetes,financial loss,,3
+any other,death of loved ones,6,3
+,death of loved ones,1,1
+any other,loss of employment,0,1
+cancer,,1,4
+diabetes,relationship breakup,0,4
+HIV/AIDS,relationship breakup,7,5
+any other,financial loss,4,5
+any other,financial loss,8,1
+cancer,,2,4
+diabetes,financial loss,1,
+any other,divorce,6,
+thyroid,death of loved ones,8,3
+HIV/AIDS,financial loss,7,5
+sleep disorder,any other,2,4
+cancer,loss of employment,7,1
+cancer,any other,4,5
+sleep disorder,relationship breakup,10,
+diabetes,divorce,8,3
+cancer,financial loss,4,4
+,loss of employment,6,3
+thyroid,divorce,4,
+HIV/AIDS,divorce,7,0
+sleep disorder,financial loss,4,
+sleep disorder,relationship breakup,2,4
+HIV/AIDS,,9,0
+diabetes,relationship breakup,2,1
+cancer,,6,1
+any other,death of loved ones,7,1
+sleep disorder,death of loved ones,10,1
+HIV/AIDS,any other,8,4
+thyroid,,6,
+thyroid,financial loss,,5
+,any other,8,1
+cancer,miscarriage,6,0
+,,1,3
+HIV/AIDS,relationship breakup,10,5
+diabetes,loss of employment,8,1
+any other,loss of employment,5,5
+,financial loss,9,1
+diabetes,financial loss,2,4
+any other,death of loved ones,0,2
+HIV/AIDS,miscarriage,3,
+thyroid,relationship breakup,9,2
+sleep disorder,,4,0
+thyroid,financial loss,5,3
+cancer,,10,3
+,any other,9,1
+cancer,any other,1,0
+,divorce,4,5
+sleep disorder,loss of employment,0,1
+any other,relationship breakup,6,0
+thyroid,loss of employment,1,0
+thyroid,death of loved ones,0,4
+diabetes,miscarriage,9,2
+diabetes,death of loved ones,7,3
+sleep disorder,,9,2
+,,5,3
+diabetes,financial loss,4,2
+diabetes,miscarriage,,4
+thyroid,loss of employment,5,5
+diabetes,,9,2
+HIV/AIDS,miscarriage,2,3
+,financial loss,6,1
+thyroid,relationship breakup,2,2
+diabetes,relationship breakup,0,4
+,divorce,6,3
+diabetes,loss of employment,3,5
+diabetes,any other,6,1
+thyroid,any other,3,1
+any other,loss of employment,8,0
+any other,death of loved ones,7,3
+sleep disorder,divorce,8,
+diabetes,miscarriage,,4
+sleep disorder,relationship breakup,5,
+,miscarriage,7,
+,miscarriage,3,3
+thyroid,loss of employment,3,3
+diabetes,financial loss,1,0
+HIV/AIDS,financial loss,1,
+diabetes,divorce,8,1
+sleep disorder,financial loss,6,1
+,loss of employment,1,4
+sleep disorder,,5,4
+,,10,1
+thyroid,relationship breakup,1,3
+thyroid,financial loss,0,5
+cancer,loss of employment,1,
+diabetes,loss of employment,5,0
+any other,,8,4
+cancer,financial loss,,1
+sleep disorder,loss of employment,2,1
+thyroid,any other,1,2
+HIV/AIDS,relationship breakup,5,2
+sleep disorder,miscarriage,3,
+sleep disorder,,,5
+,,7,4
+sleep disorder,relationship breakup,1,1
+HIV/AIDS,death of loved ones,2,
+,divorce,2,
+cancer,loss of employment,9,1
+cancer,financial loss,2,3
+diabetes,financial loss,9,2
+any other,death of loved ones,0,4
+any other,miscarriage,9,2
+cancer,relationship breakup,10,1
+any other,,5,2
+,death of loved ones,8,4
+sleep disorder,any other,10,5
+,death of loved ones,8,0
+diabetes,,8,4
+diabetes,loss of employment,5,3
+HIV/AIDS,loss of employment,3,2
+,miscarriage,2,
+,miscarriage,3,5
+thyroid,,5,4
+,any other,9,2
+diabetes,,,4
+HIV/AIDS,financial loss,5,5
+sleep disorder,miscarriage,1,3
+diabetes,any other,7,3
+HIV/AIDS,divorce,6,4
+cancer,financial loss,,1
+HIV/AIDS,any other,6,2
+HIV/AIDS,death of loved ones,2,
+any other,any other,9,0
+diabetes,any other,3,
+any other,relationship breakup,7,4
+diabetes,divorce,5,5
+thyroid,any other,0,3
+any other,divorce,8,0
+diabetes,divorce,2,4
+any other,relationship breakup,8,1
+any other,,2,
+any other,any other,9,
+diabetes,miscarriage,,4
+thyroid,divorce,0,
+thyroid,loss of employment,4,4
+thyroid,any other,6,
+cancer,loss of employment,,0
+any other,death of loved ones,0,2
+HIV/AIDS,,4,1
+HIV/AIDS,any other,5,
+,any other,6,2
+sleep disorder,any other,9,5
+cancer,divorce,8,1
+any other,miscarriage,5,0
+any other,loss of employment,8,3
+cancer,relationship breakup,10,
+sleep disorder,,7,2
+diabetes,,3,
+any other,death of loved ones,10,1
+any other,divorce,9,2
+thyroid,,1,4
+HIV/AIDS,financial loss,0,4
+cancer,death of loved ones,4,0
+,relationship breakup,8,4
+sleep disorder,death of loved ones,9,2
+,death of loved ones,9,4
+sleep disorder,any other,9,0
+cancer,divorce,6,1
+sleep disorder,,4,2
+any other,miscarriage,2,5
+thyroid,any other,9,2
+HIV/AIDS,any other,2,0
+cancer,relationship breakup,9,
+thyroid,relationship breakup,0,0
+any other,any other,3,2
+cancer,financial loss,0,2
+cancer,,8,4
+sleep disorder,death of loved ones,1,5
+cancer,miscarriage,10,1
+cancer,,1,4
+any other,financial loss,6,0
+cancer,relationship breakup,10,5
+sleep disorder,financial loss,10,1
+,any other,5,0
+sleep disorder,divorce,4,1
+HIV/AIDS,loss of employment,9,2
+any other,loss of employment,0,3
+HIV/AIDS,any other,8,3
+diabetes,loss of employment,1,0
+any other,death of loved ones,4,0
+HIV/AIDS,,3,2
+HIV/AIDS,death of loved ones,10,4
+diabetes,death of loved ones,7,3
+,death of loved ones,0,1
+thyroid,death of loved ones,5,5
+HIV/AIDS,divorce,10,4
+cancer,miscarriage,5,4
+cancer,,7,3
+,loss of employment,8,
+any other,any other,4,4
+,,5,2
+,financial loss,8,4
+diabetes,financial loss,10,5
+thyroid,,0,5
+cancer,miscarriage,1,1
+cancer,financial loss,10,5
+,,1,1
+diabetes,divorce,8,4
+cancer,,1,2
+,,7,
+,divorce,4,5
+cancer,financial loss,6,3
+thyroid,loss of employment,9,3
+,loss of employment,8,2
+sleep disorder,any other,7,0
+sleep disorder,,3,3
+sleep disorder,relationship breakup,4,0
+any other,financial loss,9,
+sleep disorder,relationship breakup,5,1
+cancer,divorce,8,
+diabetes,divorce,7,
+diabetes,relationship breakup,6,4
+HIV/AIDS,death of loved ones,,3
+any other,financial loss,8,2
+HIV/AIDS,any other,,4
+diabetes,death of loved ones,4,4
+thyroid,death of loved ones,10,
+sleep disorder,,,5
+cancer,relationship breakup,5,4
+any other,death of loved ones,4,0
+diabetes,divorce,1,
+any other,divorce,10,
+cancer,relationship breakup,6,
+any other,any other,,3
+sleep disorder,divorce,3,4
+sleep disorder,any other,1,5
+sleep disorder,,,3
+,,,
+,divorce,2,4
+any other,any other,2,1
+HIV/AIDS,financial loss,8,
+thyroid,financial loss,3,0
+diabetes,relationship breakup,5,0
+sleep disorder,relationship breakup,2,5
+thyroid,divorce,0,2
+,financial loss,9,
+sleep disorder,relationship breakup,1,
+HIV/AIDS,miscarriage,,0
+any other,any other,2,2
+thyroid,death of loved ones,3,3
+cancer,loss of employment,2,3
+cancer,relationship breakup,10,1
+cancer,relationship breakup,10,3
+cancer,,10,0
+sleep disorder,miscarriage,10,4
+any other,any other,8,3
+cancer,financial loss,6,5
+,financial loss,7,3
+any other,financial loss,9,0
+,loss of employment,3,
+HIV/AIDS,miscarriage,4,0
+HIV/AIDS,loss of employment,9,
+,loss of employment,4,1
+any other,miscarriage,0,3
+diabetes,miscarriage,1,3
+HIV/AIDS,loss of employment,3,2
+,relationship breakup,1,
+thyroid,miscarriage,,3
+sleep disorder,loss of employment,10,
+,divorce,5,0
+diabetes,divorce,2,4
+any other,relationship breakup,5,2
+sleep disorder,divorce,5,
+,miscarriage,7,4
+diabetes,any other,8,
+cancer,loss of employment,0,1
+thyroid,miscarriage,1,4
+HIV/AIDS,any other,8,0
+diabetes,divorce,5,2
+any other,loss of employment,2,
+sleep disorder,relationship breakup,9,3
+thyroid,financial loss,8,4
+diabetes,financial loss,10,5
+cancer,,,0
+,loss of employment,0,0
+diabetes,financial loss,6,1
+cancer,death of loved ones,6,2
+HIV/AIDS,loss of employment,6,
+thyroid,financial loss,8,
+sleep disorder,financial loss,8,5
+thyroid,death of loved ones,1,5
+any other,death of loved ones,,4
+,miscarriage,1,4
+any other,any other,0,
+HIV/AIDS,,2,
+,loss of employment,7,4
+sleep disorder,relationship breakup,0,3
+,divorce,0,2
+any other,,9,0
+any other,,1,
+HIV/AIDS,any other,9,1
+cancer,,2,0
+cancer,miscarriage,6,5
+HIV/AIDS,miscarriage,3,5
+diabetes,death of loved ones,10,3
+cancer,,9,3
+sleep disorder,death of loved ones,10,
+thyroid,any other,4,4
+thyroid,any other,4,1
+diabetes,miscarriage,3,
+cancer,,9,5
+thyroid,,5,5
+diabetes,,10,2
+any other,,2,4
+thyroid,divorce,9,4
+thyroid,financial loss,5,3
+cancer,financial loss,2,0
+thyroid,miscarriage,8,
+,death of loved ones,,
+cancer,death of loved ones,4,2
+thyroid,any other,1,3
+thyroid,financial loss,3,1
+,death of loved ones,10,2
+,relationship breakup,4,1
+,loss of employment,2,1
+sleep disorder,relationship breakup,7,
+sleep disorder,death of loved ones,2,3
+thyroid,death of loved ones,5,3
+,financial loss,6,0
+any other,relationship breakup,,
+thyroid,loss of employment,7,3
+any other,divorce,10,5
+diabetes,loss of employment,7,
+sleep disorder,relationship breakup,7,4
+HIV/AIDS,any other,6,3
+diabetes,loss of employment,1,5
+thyroid,any other,6,0
+diabetes,miscarriage,2,0
+thyroid,divorce,0,0
+thyroid,miscarriage,9,1
+,miscarriage,,0
+any other,any other,4,0
+any other,relationship breakup,7,2
+diabetes,loss of employment,,5
+diabetes,death of loved ones,6,0
+diabetes,any other,10,0
+any other,relationship breakup,3,0
+HIV/AIDS,,10,3
+sleep disorder,loss of employment,,1
+sleep disorder,death of loved ones,8,0
+thyroid,,7,5
+thyroid,any other,2,5
+cancer,divorce,7,0
+sleep disorder,financial loss,7,2
+cancer,divorce,7,2
+HIV/AIDS,loss of employment,7,2
+,,5,3
+sleep disorder,death of loved ones,3,4
+,relationship breakup,,1
+,loss of employment,0,
+diabetes,,0,
+cancer,loss of employment,0,0
+diabetes,miscarriage,6,1
+HIV/AIDS,loss of employment,9,4
+sleep disorder,death of loved ones,10,
+diabetes,financial loss,2,5
+diabetes,miscarriage,,
+,,6,5
+,financial loss,2,1
+,,3,5
+any other,any other,6,
+sleep disorder,death of loved ones,5,0
+diabetes,loss of employment,9,0
+,relationship breakup,9,5
+diabetes,loss of employment,8,3
+any other,loss of employment,1,1
+HIV/AIDS,financial loss,5,0
+HIV/AIDS,loss of employment,10,4
+any other,divorce,4,5
+diabetes,relationship breakup,1,
+,any other,0,5
+any other,relationship breakup,9,
+,financial loss,5,3
+,divorce,,5
+any other,loss of employment,0,3
+HIV/AIDS,any other,4,4
+cancer,financial loss,3,3
+thyroid,divorce,7,
+thyroid,death of loved ones,,0
+cancer,financial loss,5,
+thyroid,,3,3
+HIV/AIDS,financial loss,4,0
+diabetes,miscarriage,10,
+any other,,0,3
+diabetes,any other,9,0
+any other,miscarriage,5,5
+cancer,miscarriage,5,3
+any other,any other,0,3
+HIV/AIDS,,4,4
+thyroid,miscarriage,1,4
+cancer,loss of employment,4,
+sleep disorder,financial loss,7,
+HIV/AIDS,death of loved ones,3,3
+sleep disorder,any other,10,3
+thyroid,death of loved ones,4,2
+diabetes,financial loss,3,4
+diabetes,death of loved ones,5,1
+HIV/AIDS,loss of employment,,
+diabetes,miscarriage,2,3
+cancer,miscarriage,5,0
+diabetes,divorce,3,5
+any other,death of loved ones,9,
+sleep disorder,death of loved ones,9,1
+diabetes,loss of employment,8,
+HIV/AIDS,divorce,5,
+diabetes,financial loss,3,2
+,miscarriage,4,
+,divorce,10,
+sleep disorder,death of loved ones,10,4
+sleep disorder,miscarriage,0,
+any other,death of loved ones,1,4
+any other,loss of employment,,4
+HIV/AIDS,miscarriage,9,2
+HIV/AIDS,loss of employment,10,4
+thyroid,death of loved ones,3,4
+cancer,divorce,3,1
+sleep disorder,financial loss,7,3
+HIV/AIDS,any other,4,2
+cancer,relationship breakup,2,5
+cancer,divorce,2,
+sleep disorder,relationship breakup,,1
+HIV/AIDS,miscarriage,2,3
+,death of loved ones,8,
+HIV/AIDS,relationship breakup,1,4
+diabetes,relationship breakup,4,0
+HIV/AIDS,financial loss,5,5
+thyroid,death of loved ones,9,3
+HIV/AIDS,loss of employment,,0
+thyroid,miscarriage,3,
+sleep disorder,loss of employment,10,2
+cancer,miscarriage,2,2
+,any other,3,
+,relationship breakup,7,1
+any other,death of loved ones,10,2
+sleep disorder,any other,2,4
+cancer,any other,,4
+sleep disorder,divorce,1,5
+thyroid,financial loss,1,
+thyroid,any other,7,3
+any other,,8,5
+any other,financial loss,,1
+any other,miscarriage,8,2
+sleep disorder,relationship breakup,9,5
+diabetes,miscarriage,4,0
+,financial loss,4,0
+,loss of employment,10,4
+cancer,relationship breakup,4,1
+thyroid,financial loss,4,4
+HIV/AIDS,any other,0,3
+HIV/AIDS,financial loss,0,4
+thyroid,relationship breakup,9,2
+cancer,relationship breakup,5,4
+cancer,any other,5,2
+any other,any other,10,2
+diabetes,miscarriage,5,1
+any other,divorce,8,3
+sleep disorder,divorce,2,5
+thyroid,death of loved ones,9,1
+diabetes,death of loved ones,0,2
+thyroid,financial loss,8,5
+thyroid,loss of employment,6,5
+thyroid,miscarriage,10,2
+sleep disorder,,7,0
+cancer,financial loss,2,3
+sleep disorder,miscarriage,4,2
+thyroid,miscarriage,6,
+,any other,1,5
+,financial loss,2,5
+HIV/AIDS,financial loss,10,1
+sleep disorder,divorce,1,1
+diabetes,miscarriage,,5
+HIV/AIDS,,1,1
+thyroid,relationship breakup,2,2
+any other,financial loss,9,4
+HIV/AIDS,death of loved ones,1,5
+diabetes,financial loss,5,4
+diabetes,relationship breakup,4,0
+cancer,death of loved ones,5,4
+thyroid,miscarriage,,1
+cancer,,2,2
+any other,death of loved ones,8,1
+HIV/AIDS,any other,1,1
+sleep disorder,loss of employment,10,3
+cancer,,10,
+any other,miscarriage,1,2
+sleep disorder,divorce,8,0
+,relationship breakup,4,
+cancer,death of loved ones,5,5
+diabetes,loss of employment,10,3
+any other,relationship breakup,2,1
+,any other,10,3
+cancer,loss of employment,3,0
+thyroid,miscarriage,4,5
+cancer,financial loss,4,2
+any other,miscarriage,2,1
+,financial loss,1,2
+thyroid,relationship breakup,,3
+cancer,loss of employment,6,5
+HIV/AIDS,,3,3
+sleep disorder,death of loved ones,4,3
+HIV/AIDS,miscarriage,6,2
+,miscarriage,6,
+sleep disorder,miscarriage,2,5
+sleep disorder,death of loved ones,2,1
+cancer,loss of employment,9,4
+any other,loss of employment,8,0
+any other,financial loss,2,3
+HIV/AIDS,financial loss,6,1
+thyroid,relationship breakup,2,4
+any other,miscarriage,1,5
+,,5,2
+thyroid,loss of employment,10,
+sleep disorder,relationship breakup,8,0
+any other,any other,0,1
+thyroid,financial loss,,5
+HIV/AIDS,divorce,6,5
+sleep disorder,death of loved ones,10,5
+HIV/AIDS,death of loved ones,3,4
+sleep disorder,loss of employment,10,1
+,divorce,6,5
+cancer,any other,6,2
+diabetes,relationship breakup,,4
+sleep disorder,relationship breakup,10,2
+,any other,9,0
+sleep disorder,,0,1
+sleep disorder,loss of employment,5,5
+HIV/AIDS,miscarriage,5,1
+any other,financial loss,7,
+,any other,9,5
+,miscarriage,4,
+diabetes,,7,
+diabetes,divorce,9,3
+HIV/AIDS,loss of employment,6,5
+thyroid,any other,5,5
+diabetes,,10,2
+thyroid,,8,3
+any other,,3,4
+any other,,9,
+diabetes,,10,5
+,,8,3
+any other,any other,3,
+diabetes,relationship breakup,8,1
+any other,relationship breakup,5,0
+sleep disorder,any other,6,
+HIV/AIDS,,0,3
+,any other,8,2
+HIV/AIDS,,3,4
+sleep disorder,relationship breakup,9,0
+,death of loved ones,1,4
+cancer,divorce,2,1
+thyroid,loss of employment,4,5
+,loss of employment,9,1
+HIV/AIDS,divorce,4,
+diabetes,loss of employment,8,3
+sleep disorder,death of loved ones,0,2
+,,8,1
+thyroid,loss of employment,1,4
+sleep disorder,any other,,5
+diabetes,,1,0
+thyroid,divorce,8,0
+sleep disorder,relationship breakup,8,0
+any other,any other,1,3
+sleep disorder,,7,3
+,financial loss,8,5
+cancer,divorce,3,
+any other,loss of employment,,3
+,death of loved ones,4,3
+any other,any other,10,5
+,loss of employment,0,5
+diabetes,relationship breakup,,
+diabetes,financial loss,6,
+diabetes,loss of employment,7,4
+sleep disorder,divorce,4,1
+sleep disorder,financial loss,10,
+thyroid,divorce,6,
+,miscarriage,1,
+cancer,,0,3
+cancer,loss of employment,8,
+any other,divorce,6,
+HIV/AIDS,any other,9,4
+diabetes,death of loved ones,0,
+,miscarriage,0,5
+sleep disorder,,7,4
+HIV/AIDS,divorce,3,5
+,miscarriage,7,5
+any other,death of loved ones,1,4
+diabetes,relationship breakup,,
+sleep disorder,financial loss,0,1
+HIV/AIDS,relationship breakup,0,3
+any other,loss of employment,8,
+cancer,relationship breakup,3,1
+cancer,any other,6,2
+any other,loss of employment,4,0
+sleep disorder,loss of employment,,1
+any other,,10,2
+,financial loss,5,5
+thyroid,relationship breakup,9,4
+cancer,divorce,,0
+any other,relationship breakup,3,3
+diabetes,death of loved ones,8,
+thyroid,relationship breakup,,
+HIV/AIDS,,9,1
+thyroid,loss of employment,1,4
+cancer,death of loved ones,1,5
+,loss of employment,3,2
+any other,death of loved ones,8,0
+any other,relationship breakup,7,3
+diabetes,divorce,5,
+sleep disorder,death of loved ones,2,3
+any other,financial loss,10,1
+sleep disorder,financial loss,8,1
+cancer,death of loved ones,9,
+diabetes,loss of employment,6,2
+sleep disorder,loss of employment,5,0
+any other,relationship breakup,2,
+sleep disorder,miscarriage,3,1
+thyroid,death of loved ones,2,0
+diabetes,,7,0
+cancer,loss of employment,9,3
+thyroid,death of loved ones,8,5
+thyroid,death of loved ones,4,3
+HIV/AIDS,miscarriage,4,1
+any other,,8,2
+cancer,relationship breakup,6,1
+cancer,,4,2
+any other,miscarriage,2,0
+HIV/AIDS,,,3
+diabetes,divorce,8,5
+HIV/AIDS,relationship breakup,10,5
+thyroid,divorce,3,1
+,,6,0
+cancer,miscarriage,10,4
+,relationship breakup,1,4
+HIV/AIDS,loss of employment,10,4
+diabetes,death of loved ones,0,3
+thyroid,loss of employment,2,4
+,divorce,0,5
+thyroid,financial loss,0,1
+,loss of employment,10,5
+,financial loss,0,4
+cancer,loss of employment,6,
+any other,death of loved ones,2,4
+diabetes,relationship breakup,9,5
+HIV/AIDS,loss of employment,4,3
+cancer,relationship breakup,5,0
+sleep disorder,any other,8,1
+HIV/AIDS,relationship breakup,5,0
+sleep disorder,death of loved ones,1,1
+HIV/AIDS,divorce,10,3
+,any other,9,2
+HIV/AIDS,relationship breakup,4,3
+cancer,any other,3,4
+thyroid,relationship breakup,6,3
+sleep disorder,relationship breakup,10,0
+cancer,death of loved ones,7,1
+sleep disorder,divorce,7,
+diabetes,relationship breakup,10,3
+,miscarriage,9,1
+cancer,any other,4,4
+sleep disorder,any other,9,4
+HIV/AIDS,any other,10,4
+diabetes,divorce,,3
+,death of loved ones,4,3
+sleep disorder,miscarriage,,0
+,,7,5
+thyroid,,5,
+,any other,8,3
+sleep disorder,relationship breakup,4,3
+,relationship breakup,1,3
+thyroid,,7,2
+diabetes,death of loved ones,1,
+thyroid,miscarriage,7,0
+any other,miscarriage,7,0
+HIV/AIDS,miscarriage,10,4
+diabetes,death of loved ones,3,
+thyroid,loss of employment,1,5
+HIV/AIDS,loss of employment,10,0
+,,8,
+any other,death of loved ones,10,3
+diabetes,financial loss,1,5
+cancer,death of loved ones,7,0
+diabetes,miscarriage,8,5
+diabetes,relationship breakup,9,0
+sleep disorder,divorce,6,0
+any other,miscarriage,8,5
+any other,divorce,6,4
+cancer,any other,2,3
+sleep disorder,divorce,7,0
+,any other,4,5
+HIV/AIDS,financial loss,8,
+any other,relationship breakup,,3
+diabetes,relationship breakup,4,3
+,miscarriage,9,2
+any other,financial loss,3,2
+sleep disorder,death of loved ones,,2
+diabetes,death of loved ones,8,2
+sleep disorder,miscarriage,1,
+sleep disorder,,3,5
+thyroid,loss of employment,3,
+thyroid,divorce,3,5
+cancer,death of loved ones,4,3
+HIV/AIDS,,0,2
+cancer,any other,5,
+,relationship breakup,,1
+cancer,relationship breakup,,2
+any other,miscarriage,2,1
+diabetes,miscarriage,10,3
+cancer,divorce,4,1
+diabetes,relationship breakup,1,1
+,loss of employment,7,1
+thyroid,loss of employment,,4
+thyroid,miscarriage,4,0
+any other,relationship breakup,10,3
+HIV/AIDS,divorce,8,5
+,relationship breakup,,3
+any other,miscarriage,4,
+cancer,,5,5
+sleep disorder,financial loss,7,0
+any other,any other,4,5
+HIV/AIDS,relationship breakup,9,2
+,divorce,7,4
+thyroid,relationship breakup,2,4
+thyroid,any other,10,2
+diabetes,financial loss,6,2
+thyroid,any other,8,3
+sleep disorder,relationship breakup,3,3
+sleep disorder,death of loved ones,5,4
+sleep disorder,relationship breakup,7,4
+diabetes,loss of employment,10,4
+cancer,,1,
+cancer,loss of employment,,5
+any other,miscarriage,,2
+HIV/AIDS,financial loss,5,4
+cancer,any other,1,3
+diabetes,divorce,10,
+any other,,5,
+HIV/AIDS,loss of employment,0,0
+HIV/AIDS,any other,2,0
+,any other,5,1
+cancer,miscarriage,2,5
+sleep disorder,relationship breakup,6,0
+HIV/AIDS,miscarriage,4,
+sleep disorder,divorce,10,1
+any other,miscarriage,,4
+sleep disorder,loss of employment,10,
