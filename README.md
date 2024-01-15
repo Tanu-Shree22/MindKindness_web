@@ -1,1 +1,1 @@
-# MindKindness_web
+# MindKindness_Project
