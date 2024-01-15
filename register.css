@@ -1,0 +1,130 @@
+*{
+  margin: 0%;
+  padding: 0%;
+}
+body{
+  background: url("../images/31-Ways-to-Reduce-Stress-in-Your-Life-1024x643.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center ;
+ }
+
+h1{
+  margin-top: 200px;
+  margin: 2%;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 38px;
+  text-align: center;
+  text-decoration:underline;
+  color:black;
+}
+
+#form{
+  width:460px;
+  height:620px;
+  background-color: white;
+  box-shadow:0 0 15px rgba(14,41,57,0.12),0 2px 5px rgba(14,41,57,0.44),inset 0 -1px 2px rgba(14,41,57,0.15);
+  /* float:left; */
+  padding:10px 50px 0;
+
+  margin:2% 27%;
+  border-radius:10px
+}
+label{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 18px;
+  font-weight: 600;
+  text-decoration: solid;
+  color:  rgba(9, 5, 15, 0.795);
+  margin-top: 100px;
+}
+input{
+ 
+ font-family: Georgia, 'Times New Roman', Times, serif;
+ font-size: 10px;
+ font-weight: 500;
+  width:450px;
+padding:10px;
+margin-top:5px;
+margin-bottom:5px;
+border-radius:5px;
+border:1px solid #cbcbcb;
+box-shadow:inset 0 1px 2px rgba(0,0,0,0.18);
+font-size:16px;
+}
+button{
+  background-color:cornflowerblue;
+  border-radius:5px;
+  border:none;
+  padding:10px 15px;
+  color:white;
+  text-shadow:1px 1px 1px #949494;
+  text-align: center;
+  margin-left: 115px;
+  margin-bottom: 15px;
+  width: 200px;
+  height: 40px;
+  font-size: 20px;
+  font-weight: 600;
+   cursor: pointer;
+}
+.container {
+  position: relative;
+  padding-left: 35px;
+  margin-bottom: 12px;
+  cursor: pointer;
+  font-size: 20px;
+  font-weight: lighter;
+  
+}
+
+/* Hide the browser's default radio button */
+.container input {
+  position: absolute;
+  opacity: 0;
+  cursor: pointer;
+}
+
+/* styling radio button */
+.checkmark {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 20px;
+  width: 20px;
+  background-color: #eee;
+  border-radius: 50%;
+}
+
+/* On mouse-over, add a grey background color */
+.container:hover input ~ .checkmark {
+  background-color: #ccc;
+}
+
+/* When the radio button is checked, add a blue background */
+.container input:checked ~ .checkmark {
+  background-color: #2196F3;
+}
+
+/* Create the indicator (the dot/circle - hidden when not checked) */
+.checkmark:after {
+  content: "";
+  position: absolute;
+  display: none;
+}
+
+/* Show the indicator (dot/circle) when checked */
+.container input:checked ~ .checkmark:after {
+  display: block;
+}
+
+/* Style the indicator (dot/circle) */
+.container .checkmark:after {
+     top: 9px;
+    left: 9px;
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    background: white;
+}
