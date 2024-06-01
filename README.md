@@ -15,9 +15,9 @@ The diseases are :-
 
 **Bipolar Disorder** - Bipolar disorder, formerly known as manic-depressive illness, is a mental health condition characterized by extreme mood swings or episodes of mania and depression. Individuals with bipolar disorder may experience periods of intense emotional highs (mania or hypomania) followed by periods of deep sadness or hopelessness (depression). The severity, duration, and frequency of these mood episodes can vary.
 
-**Depression** - Depression, or major depressive disorder, is a common and serious mental health condition characterized by persistent feelings of sadness, hopelessness, and a lack of interest or pleasure in daily activities. Depression affects how a person thinks, feels, and handles daily activities, and it can lead to various emotional and physical problems.
+**Depression** - Depression, or major depressive disorder, is a common and serious mental health condition characterized by persistent feelings of sadness, hopelessness, and a lack of interest or pleasure in daily activities. Depression affects how a person thinks, feels, and handles daily activities, and it can lead to various emotional and physical problems.<br>
 
-
+ 
 ## Welcome to Mind Kindness
 <img width="629" alt="Screenshot 2024-06-01 073851" src="https://github.com/Tanu-Shree22/MindKindness_web/assets/114923618/acedd54b-a942-4ba8-855c-e5106a46643a">
 <img width="629" alt="Screenshot 2024-06-01 073928" src="https://github.com/Tanu-Shree22/MindKindness_web/assets/114923618/09876985-42c4-4eb2-84df-c64c57f0121f">
