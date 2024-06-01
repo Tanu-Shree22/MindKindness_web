@@ -1,6 +1,6 @@
 # MindKindness_Project
 At Mind Kindness, we understand that mental well-being is a journey, unique to each individual. We've designed an innovative and user-friendly experience to empower you on your path to emotional resilience.
-Mind Kindness - The project centers around an interactive quiz designed to engage users in a self-reflective exploration of their mental well-being. By harnessing the power of technology, Mind Kindness delivers personalized recommendations based on quiz outcomes, ranging from self-care practices to professional intervention.
+ <br> Mind Kindness - The project centers around an interactive quiz designed to engage users in a self-reflective exploration of their mental well-being. By harnessing the power of technology, Mind Kindness delivers personalized recommendations based on quiz outcomes, ranging from self-care practices to professional intervention.
 
 ## Background Study
 To make this project we did some study on the diseases which we included in our website
